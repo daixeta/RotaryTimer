@@ -10,10 +10,6 @@ encSecSW	18
 
 ToDo:
 
-- Display-Output
-
-
-
 
 ISSUES
 
